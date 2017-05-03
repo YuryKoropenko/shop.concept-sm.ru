@@ -1498,6 +1498,12 @@ a.phone_text:hover {
     margin-left: -115px;
     list-style-type: none;
 }
+.white_block {
+    padding: 30px 0;
+}
+.white_block ul li {
+    margin-left: 16px;
+}
 
 /*#################### Адаптация ####################*/
 .right-side {
